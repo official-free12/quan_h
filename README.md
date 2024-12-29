@@ -1,0 +1,6 @@
+# 全新bsc链DAPP|USDT预售DAPP|区块链邀请推荐预售源码（含预售solidity和约）
+
+购买前必看：<br>1、本店所售源码都是公司自己开发的项目，大家可以放心下单！<br>2、安装网站：安装服务仅限搭建能访问前后台、网站环境需买家自行准备并提供宝塔后台，需要安装的购买前请与客服确认后再购买。<br>3、附加服务：如果需要对接支付充值、短信、APP、公众号、布局修改及图片替换样式设置及其他需求等，与客服另外协商费用。<br>4、特别注意：个别程序源码因服务器、防火墙及第三方监测平台所设等级不同误报毒属于正常现象放心即可。<br>5、重要提醒：程序仅供娱乐交流测试，请勿用于非法用途，不得违反国家法律，购买后用作他用，一切法律责任与本店无关！<br>6、如果需要定制功能或者修改需求，费用按照新增需求报价为准，不包括在源码费用里<br>7、提示：因源码可复制性原因，除所承诺的功能缺陷外卖家拒绝任何理由的退款（下单即同意）骗源码必维权到底！<br>====================================================<br>dapp演示：example.com/?0x636C5B8Bf20f387454B471A787E609BdCcbd336f（只有前端dapp页面无后台管理）带和约发布<br>DApp绑定推荐关系时，钱包同时也锁定了上下级的关系。<br>每持有 100 油可获得 100 枚 Pima 币（锁仓释放）<br>example.com%的Pima币<br>派达人：直推10个IDO，获得无限代IDO的5%奖励派先锋：直推30个IDO，获得无限代IDO的10%奖励派将军：直推60个IDO，获得无限代IDO的15%奖励派元帅：直推120个IDO，获得无限代IDO的20%奖励<br><br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/qKJUF" style="color: red;">https://mega-file.org/qKJUF</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
